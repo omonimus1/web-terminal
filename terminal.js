@@ -17,7 +17,7 @@
         );
     },
 
-    location: function(what) {
+    location: function() {
         this.echo('United Kingdom');
     },
 
@@ -30,7 +30,7 @@
     },
 
     whoami : function(){
-        this.echo('Davide Pollicino');
+    this.echo('Davide Pollicino, CS Student, incoming SWE intern @Microsoft and OpenSource Geek!');
     },
  },
     {
